@@ -1,0 +1,15 @@
+{
+  "name": "thing-browser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/westoncb/thing-browser",
+  "author": "Weston C. Beecroft",
+  "license": "MIT",
+  "dependencies": {
+    "@tweenjs/tween.js": "^17.1.1",
+    "browserify": "^14.5.0",
+    "pixi.js": "^4.7.1",
+    "three": "^0.91.0",
+    "watchify": "^3.9.0"
+  }
+}
